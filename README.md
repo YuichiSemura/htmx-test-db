@@ -1,3 +1,18 @@
+# Readme
+
+My JSON Server というサービスを利用させていただきます。感謝しています。
+
+https://my-json-server.typicode.com
+
+## 使い方
+
+以下のような URL で json 形式のデータを取得できます。大変便利です。
+
+https://my-json-server.typicode.com/YuichiSemura/htmx-test-db/users
+
+## 内容例
+
+```json
 {
   "users": [
     {
@@ -33,3 +48,4 @@
   ],
   "task-category": ["housework", "childcare", "programming", "reading", "self-improvement", "exercise", "other"]
 }
+```
